@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Folder Name="/ClientApp/" />
+  <Project Path="App01BinaryModelUsingMLNet/App01BinaryModelUsingMLNet.csproj" />
+</Solution>

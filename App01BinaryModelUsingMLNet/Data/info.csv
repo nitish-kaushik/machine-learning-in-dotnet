@@ -1,0 +1,501 @@
+id,title,result
+1,I hated this app,false
+2,Great experience with this book,true
+3,Very dissatisfied with this movie purchase,false
+4,This phone was a complete waste of money,false
+5,Best course I have ever used,true
+6,Very dissatisfied with this shirt purchase,false
+7,This gadget is not worth the price at all,false
+8,The device arrived quickly and in perfect condition,true
+9,I absolutely loved this hotel,true
+10,The app stopped working after a week,false
+11,This camera made everything so much easier,true
+12,This book is exactly what I needed,true
+13,I would buy this vacation package again without hesitation,true
+14,This service exceeded all my expectations,true
+15,This movie is not what I expected,false
+16,The vacation package is poorly designed,false
+17,I would never buy this device again,false
+18,Amazing laptop highly recommend it,true
+19,This game made everything so much harder,false
+20,Worst book I have ever used,false
+21,The headphones arrived quickly and in perfect condition,true
+22,I would buy this shirt again without hesitation,true
+23,This movie is not worth the price at all,false
+24,This gadget ruined my day,false
+25,This service ruined my day,false
+26,The gadget is beautifully designed,true
+27,The laptop works perfectly and looks great,true
+28,This camera exceeded all my expectations,true
+29,Amazing shirt highly recommend it,true
+30,The camera delivers poor performance,false
+31,I am impressed by the quality of this watch,true
+32,The service is poorly designed,false
+33,Great experience with this shoes,true
+34,Very dissatisfied with this app purchase,false
+35,Awful customer service for this device,false
+36,Best restaurant I have ever used,true
+37,Terrible laptop would not recommend,false
+38,Disappointing experience with this hotel,false
+39,Awful customer service for this vacation package,false
+40,This vacation package is exactly what I needed,true
+41,This app is annoying to use every day,false
+42,I hated this book,false
+43,Very dissatisfied with this app purchase,false
+44,The book stopped working after a week,false
+45,This service made my day so much better,true
+46,The app is reliable and durable,true
+47,This hotel made everything so much harder,false
+48,The game broke after one use,false
+49,This vacation package is annoying to use every day,false
+50,I would buy this hotel again without hesitation,true
+51,This course made everything so much harder,false
+52,This camera deserves one star,false
+53,The headphones was fantastic and well made,true
+54,Overpriced shoes not worth it at all,false
+55,The movie delivers outstanding performance,true
+56,I am impressed by the quality of this movie,true
+57,Very dissatisfied with this restaurant purchase,false
+58,I am impressed by the quality of this gadget,true
+59,This vacation package is a joy to use every day,true
+60,I'm very happy with this gadget,true
+61,This shirt is not worth the price at all,false
+62,This headphones is not what I expected,false
+63,This service is a joy to use every day,true
+64,Best movie I have ever used,true
+65,The gadget delivers outstanding performance,true
+66,Best phone I have ever used,true
+67,The laptop is beautifully designed,true
+68,This camera exceeded all my expectations,true
+69,Best app I have ever used,true
+70,I'm very unhappy with this gadget,false
+71,The device delivers outstanding performance,true
+72,I am impressed by the quality of this car,true
+73,The car was fantastic and well made,true
+74,Fantastic customer service for this service,true
+75,This book was a complete waste of money,false
+76,The camera is reliable and durable,true
+77,The shoes broke after one use,false
+78,Very satisfied with this service purchase,true
+79,This app made my day so much better,true
+80,Amazing service highly recommend it,true
+81,Very dissatisfied with this book purchase,false
+82,Very satisfied with this phone purchase,true
+83,This shoes made everything so much harder,false
+84,I am impressed by the quality of this software,true
+85,This laptop is exactly what I needed,true
+86,I absolutely loved this watch,true
+87,The game arrived quickly and in perfect condition,true
+88,The gadget is reliable and durable,true
+89,I am disappointed by the quality of this restaurant,false
+90,I'm very happy with this laptop,true
+91,Very dissatisfied with this laptop purchase,false
+92,This laptop was a complete waste of money,false
+93,This course is annoying to use every day,false
+94,This movie is a joy to use every day,true
+95,Terrible vacation package would not recommend,false
+96,Best watch I have ever used,true
+97,The shoes delivers outstanding performance,true
+98,This vacation package was a complete waste of money,false
+99,I can't stop recommending this device to friends,true
+100,The app stopped working after a week,false
+101,This camera performs beyond what I paid for,true
+102,This restaurant is exactly what I needed,true
+103,Overpriced service not worth it at all,false
+104,This movie made everything so much easier,true
+105,This device deserves five stars,true
+106,Terrible gadget would not recommend,false
+107,This restaurant is a wonderful product,true
+108,Terrible shoes would not recommend,false
+109,This service made my day so much better,true
+110,This game is not worth the price at all,false
+111,The course is poorly designed,false
+112,Very satisfied with this game purchase,true
+113,The restaurant broke after one use,false
+114,The gadget was fantastic and well made,true
+115,Superb quality vacation package worth every penny,true
+116,The shirt works perfectly and looks great,true
+117,This course is a poor product,false
+118,This movie exceeded all my expectations,true
+119,This laptop is a poor product,false
+120,This restaurant made everything so much easier,true
+121,This hotel is a poor product,false
+122,Very dissatisfied with this car purchase,false
+123,The movie broke after one use,false
+124,This restaurant is not worth the price at all,false
+125,I would never buy this device again,false
+126,Awful customer service for this restaurant,false
+127,I would buy this laptop again without hesitation,true
+128,I'm very unhappy with this shoes,false
+129,I would never buy this gadget again,false
+130,Awful customer service for this vacation package,false
+131,Worst hotel I have ever used,false
+132,This car ruined my day,false
+133,The camera is reliable and durable,true
+134,Awful customer service for this shoes,false
+135,This book performs beyond what I paid for,true
+136,This software exceeded all my expectations,true
+137,The headphones arrived quickly and in perfect condition,true
+138,Best shoes I have ever used,true
+139,I'm very happy with this watch,true
+140,Amazing app highly recommend it,true
+141,This watch is a joy to use every day,true
+142,Very dissatisfied with this camera purchase,false
+143,The app broke after one use,false
+144,This laptop is a wonderful product,true
+145,Fantastic customer service for this headphones,true
+146,The car stopped working after a week,false
+147,This book is annoying to use every day,false
+148,The shirt delivers outstanding performance,true
+149,This car performs beyond what I paid for,true
+150,Very satisfied with this shirt purchase,true
+151,Amazing camera highly recommend it,true
+152,I would never recommend this book to anyone,false
+153,Overpriced course not worth it at all,false
+154,Fantastic customer service for this camera,true
+155,Superb quality gadget worth every penny,true
+156,Fantastic customer service for this watch,true
+157,This vacation package ruined my day,false
+158,This gadget is not what I expected,false
+159,Overpriced game not worth it at all,false
+160,The vacation package delivers outstanding performance,true
+161,The service arrived damaged and late,false
+162,I'm very happy with this course,true
+163,The hotel is reliable and durable,true
+164,Overpriced course not worth it at all,false
+165,This camera deserves one star,false
+166,This shoes made everything so much easier,true
+167,Worst shirt I have ever used,false
+168,This shoes exceeded all my expectations,true
+169,This movie deserves one star,false
+170,The device is beautifully designed,true
+171,This watch performs beyond what I paid for,true
+172,Best restaurant I have ever used,true
+173,I hated this book,false
+174,Worst hotel I have ever used,false
+175,This course is not worth the price at all,false
+176,Very satisfied with this shoes purchase,true
+177,The service broke after one use,false
+178,The course arrived quickly and in perfect condition,true
+179,This camera deserves one star,false
+180,The vacation package arrived damaged and late,false
+181,This car is annoying to use every day,false
+182,Very dissatisfied with this service purchase,false
+183,The software is unreliable and flimsy,false
+184,This shoes made everything so much easier,true
+185,This course is a poor product,false
+186,Best app I have ever used,true
+187,This game performs beyond what I paid for,true
+188,The camera works perfectly and looks great,true
+189,Terrible restaurant would not recommend,false
+190,This restaurant is exactly what I needed,true
+191,Terrible car would not recommend,false
+192,Very satisfied with this service purchase,true
+193,I'm very happy with this car,true
+194,This device made everything so much easier,true
+195,I hated this device,false
+196,I absolutely loved this headphones,true
+197,This car is exactly what I needed,true
+198,The gadget is unreliable and flimsy,false
+199,Worst software I have ever used,false
+200,Fantastic customer service for this software,true
+201,The watch works perfectly and looks great,true
+202,The restaurant arrived damaged and late,false
+203,Very dissatisfied with this phone purchase,false
+204,The device delivers poor performance,false
+205,Terrible car would not recommend,false
+206,The hotel arrived quickly and in perfect condition,true
+207,This camera is exactly what I needed,true
+208,The camera works perfectly and looks great,true
+209,This app is not what I expected,false
+210,Awful customer service for this app,false
+211,I am disappointed by the quality of this phone,false
+212,This headphones was a complete waste of money,false
+213,Amazing laptop highly recommend it,true
+214,Worst shirt I have ever used,false
+215,This restaurant deserves one star,false
+216,I am impressed by the quality of this book,true
+217,I'm very unhappy with this service,false
+218,This headphones made everything so much harder,false
+219,This book deserves five stars,true
+220,This game ruined my day,false
+221,I absolutely loved this game,true
+222,This watch is not what I expected,false
+223,I'm very unhappy with this movie,false
+224,The shoes is poorly designed,false
+225,This game made everything so much easier,true
+226,This book deserves one star,false
+227,The laptop delivers poor performance,false
+228,Fantastic customer service for this headphones,true
+229,The camera is beautifully designed,true
+230,Fantastic customer service for this software,true
+231,I would buy this service again without hesitation,true
+232,Awful customer service for this hotel,false
+233,The app is poorly designed,false
+234,Very dissatisfied with this software purchase,false
+235,The device is reliable and durable,true
+236,Best movie I have ever used,true
+237,The shoes arrived quickly and in perfect condition,true
+238,The vacation package delivers poor performance,false
+239,The phone stopped working after a week,false
+240,The hotel works perfectly and looks great,true
+241,I would buy this app again without hesitation,true
+242,This app deserves five stars,true
+243,This shirt is annoying to use every day,false
+244,The car is reliable and durable,true
+245,This shoes made everything so much easier,true
+246,The software is poorly designed,false
+247,I absolutely loved this movie,true
+248,This shoes is exactly what I needed,true
+249,The headphones delivers outstanding performance,true
+250,This headphones is a joy to use every day,true
+251,The gadget is reliable and durable,true
+252,This service performs beyond what I paid for,true
+253,This shoes is a wonderful product,true
+254,I'm very happy with this camera,true
+255,Very satisfied with this hotel purchase,true
+256,The software is reliable and durable,true
+257,The course delivers outstanding performance,true
+258,The shirt broke after one use,false
+259,I would buy this hotel again without hesitation,true
+260,This gadget performs beyond what I paid for,true
+261,This laptop exceeded all my expectations,true
+262,This restaurant is not worth the price at all,false
+263,This software made everything so much harder,false
+264,I absolutely loved this device,true
+265,I am impressed by the quality of this service,true
+266,This app exceeded all my expectations,true
+267,I am disappointed by the quality of this book,false
+268,This software is not what I expected,false
+269,The laptop is beautifully designed,true
+270,The game delivers outstanding performance,true
+271,Best book I have ever used,true
+272,Awful customer service for this vacation package,false
+273,This shoes deserves one star,false
+274,This service is not what I expected,false
+275,Overpriced device not worth it at all,false
+276,Overpriced device not worth it at all,false
+277,This book deserves one star,false
+278,I'm very unhappy with this shirt,false
+279,Amazing hotel highly recommend it,true
+280,Very satisfied with this movie purchase,true
+281,Fantastic customer service for this service,true
+282,I am disappointed by the quality of this game,false
+283,Superb quality game worth every penny,true
+284,The movie arrived damaged and late,false
+285,This device is a poor product,false
+286,I'm very unhappy with this car,false
+287,Best restaurant I have ever used,true
+288,Disappointing experience with this movie,false
+289,Superb quality vacation package worth every penny,true
+290,The game delivers poor performance,false
+291,The game arrived quickly and in perfect condition,true
+292,This course is a poor product,false
+293,The movie arrived damaged and late,false
+294,Awful customer service for this camera,false
+295,I hated this movie,false
+296,I can't stop recommending this device to friends,true
+297,I hated this app,false
+298,This hotel made everything so much harder,false
+299,The service is beautifully designed,true
+300,This device ruined my day,false
+301,I am impressed by the quality of this movie,true
+302,Fantastic customer service for this camera,true
+303,The hotel was fantastic and well made,true
+304,This software performs beyond what I paid for,true
+305,This gadget is exactly what I needed,true
+306,Amazing camera highly recommend it,true
+307,The watch was fantastic and well made,true
+308,I hated this gadget,false
+309,This shirt exceeded all my expectations,true
+310,This software deserves one star,false
+311,This laptop made everything so much harder,false
+312,Very satisfied with this restaurant purchase,true
+313,The software arrived damaged and late,false
+314,The vacation package is beautifully designed,true
+315,This hotel is not worth the price at all,false
+316,I absolutely loved this gadget,true
+317,Best book I have ever used,true
+318,The restaurant was fantastic and well made,true
+319,This game performs beyond what I paid for,true
+320,This car is a poor product,false
+321,I am disappointed by the quality of this shoes,false
+322,Great experience with this watch,true
+323,This course deserves five stars,true
+324,Disappointing experience with this movie,false
+325,Fantastic customer service for this camera,true
+326,This app is annoying to use every day,false
+327,Overpriced game not worth it at all,false
+328,The software delivers poor performance,false
+329,The gadget arrived damaged and late,false
+330,The gadget works perfectly and looks great,true
+331,This service is not what I expected,false
+332,I'm very unhappy with this shoes,false
+333,Worst car I have ever used,false
+334,The software is reliable and durable,true
+335,This watch is not what I expected,false
+336,The restaurant is poorly designed,false
+337,This restaurant exceeded all my expectations,true
+338,The camera delivers poor performance,false
+339,The book arrived damaged and late,false
+340,The phone arrived damaged and late,false
+341,Awful customer service for this restaurant,false
+342,This camera is a wonderful product,true
+343,This movie is not what I expected,false
+344,I would never recommend this gadget to anyone,false
+345,The software works perfectly and looks great,true
+346,This vacation package was a complete waste of money,false
+347,The game is beautifully designed,true
+348,The movie is unreliable and flimsy,false
+349,The book was fantastic and well made,true
+350,This game performs beyond what I paid for,true
+351,This camera was a complete waste of money,false
+352,Overpriced headphones not worth it at all,false
+353,Great experience with this shoes,true
+354,The hotel delivers poor performance,false
+355,Amazing vacation package highly recommend it,true
+356,This shoes deserves one star,false
+357,The restaurant delivers outstanding performance,true
+358,The app is beautifully designed,true
+359,I can't stop recommending this phone to friends,true
+360,The game arrived damaged and late,false
+361,This movie ruined my day,false
+362,I would buy this device again without hesitation,true
+363,Fantastic customer service for this app,true
+364,Superb quality shirt worth every penny,true
+365,I am disappointed by the quality of this book,false
+366,The headphones delivers outstanding performance,true
+367,This game is not worth the price at all,false
+368,I can't stop recommending this watch to friends,true
+369,The laptop delivers outstanding performance,true
+370,The software is unreliable and flimsy,false
+371,Overpriced shoes not worth it at all,false
+372,I would never buy this shoes again,false
+373,This app deserves one star,false
+374,The restaurant is unreliable and flimsy,false
+375,The laptop is poorly designed,false
+376,The laptop arrived quickly and in perfect condition,true
+377,The restaurant is unreliable and flimsy,false
+378,Superb quality camera worth every penny,true
+379,This shirt ruined my day,false
+380,Very satisfied with this headphones purchase,true
+381,This hotel is a poor product,false
+382,I am impressed by the quality of this game,true
+383,The book stopped working after a week,false
+384,Amazing restaurant highly recommend it,true
+385,Worst watch I have ever used,false
+386,Very dissatisfied with this headphones purchase,false
+387,This phone is exactly what I needed,true
+388,The service was fantastic and well made,true
+389,The app is reliable and durable,true
+390,The headphones is poorly designed,false
+391,Best software I have ever used,true
+392,Very satisfied with this camera purchase,true
+393,Worst movie I have ever used,false
+394,The game arrived damaged and late,false
+395,The restaurant broke after one use,false
+396,This game exceeded all my expectations,true
+397,The book broke after one use,false
+398,Very satisfied with this restaurant purchase,true
+399,I would buy this gadget again without hesitation,true
+400,The restaurant is reliable and durable,true
+401,The book is poorly designed,false
+402,This car deserves one star,false
+403,This laptop is a poor product,false
+404,I'm very unhappy with this service,false
+405,Best headphones I have ever used,true
+406,I can't stop recommending this headphones to friends,true
+407,The headphones is poorly designed,false
+408,This shirt is a wonderful product,true
+409,The movie arrived damaged and late,false
+410,The vacation package is poorly designed,false
+411,This camera was a complete waste of money,false
+412,Great experience with this device,true
+413,This gadget made everything so much easier,true
+414,I'm very happy with this shoes,true
+415,Great experience with this vacation package,true
+416,Great experience with this restaurant,true
+417,This book ruined my day,false
+418,I hated this restaurant,false
+419,Best device I have ever used,true
+420,This app made my day so much better,true
+421,The car is reliable and durable,true
+422,The movie is unreliable and flimsy,false
+423,This headphones made everything so much easier,true
+424,The service broke after one use,false
+425,This laptop deserves one star,false
+426,I would never recommend this course to anyone,false
+427,The phone is beautifully designed,true
+428,I am impressed by the quality of this watch,true
+429,The software was fantastic and well made,true
+430,The movie arrived damaged and late,false
+431,The vacation package stopped working after a week,false
+432,Great experience with this app,true
+433,The gadget delivers poor performance,false
+434,This vacation package is not what I expected,false
+435,The course arrived damaged and late,false
+436,The book broke after one use,false
+437,The gadget is poorly designed,false
+438,I'm very unhappy with this car,false
+439,Best car I have ever used,true
+440,The watch arrived quickly and in perfect condition,true
+441,The camera was fantastic and well made,true
+442,I can't stop recommending this app to friends,true
+443,Great experience with this software,true
+444,Amazing movie highly recommend it,true
+445,The headphones is reliable and durable,true
+446,Very dissatisfied with this laptop purchase,false
+447,Very dissatisfied with this gadget purchase,false
+448,The car was fantastic and well made,true
+449,I can't stop recommending this car to friends,true
+450,The laptop is unreliable and flimsy,false
+451,This game deserves one star,false
+452,The course delivers outstanding performance,true
+453,I can't stop recommending this software to friends,true
+454,The headphones was fantastic and well made,true
+455,I would never buy this book again,false
+456,The shoes delivers poor performance,false
+457,Very dissatisfied with this vacation package purchase,false
+458,The gadget is poorly designed,false
+459,I can't stop recommending this app to friends,true
+460,This game is a wonderful product,true
+461,I would never buy this phone again,false
+462,Great experience with this device,true
+463,Terrible restaurant would not recommend,false
+464,I hated this movie,false
+465,I'm very unhappy with this watch,false
+466,The hotel works perfectly and looks great,true
+467,The camera is reliable and durable,true
+468,The vacation package delivers poor performance,false
+469,This restaurant exceeded all my expectations,true
+470,This laptop deserves five stars,true
+471,This service is a poor product,false
+472,I am disappointed by the quality of this vacation package,false
+473,This shirt is a wonderful product,true
+474,The headphones broke after one use,false
+475,Superb quality device worth every penny,true
+476,I can't stop recommending this game to friends,true
+477,This vacation package is exactly what I needed,true
+478,I'm very happy with this game,true
+479,This restaurant made everything so much harder,false
+480,Overpriced camera not worth it at all,false
+481,I am impressed by the quality of this car,true
+482,This gadget is exactly what I needed,true
+483,This gadget is annoying to use every day,false
+484,I would never buy this movie again,false
+485,The laptop is reliable and durable,true
+486,The movie arrived quickly and in perfect condition,true
+487,The car delivers poor performance,false
+488,This car is not worth the price at all,false
+489,This phone is exactly what I needed,true
+490,This vacation package ruined my day,false
+491,This headphones performs beyond what I paid for,true
+492,The shoes was fantastic and well made,true
+493,This course is exactly what I needed,true
+494,Superb quality camera worth every penny,true
+495,This hotel made everything so much easier,true
+496,The book is beautifully designed,true
+497,I'm very unhappy with this headphones,false
+498,The restaurant is beautifully designed,true
+499,Great experience with this app,true
+500,This restaurant deserves five stars,true
