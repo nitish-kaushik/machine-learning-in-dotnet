@@ -1,8 +1,11 @@
+using Microsoft.ML.Data;
+
 namespace App01BinaryModelUsingMLNet.Models;
 
 public class NewsPrediction
 {
-    public bool PredictedLabel { get; set; }
+    [ColumnName("PredictedLabel")]
+    public bool Answer { get; set; }
 
     public float Probability { get; set; }
 

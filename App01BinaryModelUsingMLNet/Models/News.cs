@@ -8,6 +8,7 @@ public class News
     // [LoadColumn(0)]
     // public int Id { get; set; }
     [LoadColumn(1)]
+    [ColumnName("Title")]
     public string Title { get; set; } = null!;
     [LoadColumn(2)]
     public bool Result { get; set; }

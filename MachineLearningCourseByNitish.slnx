@@ -1,4 +1,6 @@
 <Solution>
-  <Folder Name="/ClientApp/" />
+  <Folder Name="/ClientApps/">
+    <File Path="ClientApps/newsChat.htm" />
+  </Folder>
   <Project Path="App01BinaryModelUsingMLNet/App01BinaryModelUsingMLNet.csproj" />
 </Solution>
