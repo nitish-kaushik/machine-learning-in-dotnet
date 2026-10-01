@@ -3,4 +3,5 @@
     <File Path="ClientApps/newsChat.htm" />
   </Folder>
   <Project Path="App01BinaryModelUsingMLNet/App01BinaryModelUsingMLNet.csproj" />
+  <Project Path="App02PredictBPM/App02PredictBPM.csproj" />
 </Solution>
