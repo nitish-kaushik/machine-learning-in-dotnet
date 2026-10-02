@@ -4,4 +4,6 @@
   </Folder>
   <Project Path="App01BinaryModelUsingMLNet/App01BinaryModelUsingMLNet.csproj" />
   <Project Path="App02PredictBPM/App02PredictBPM.csproj" />
+  <Project Path="App03EmailSpamPrediction/App03EmailSpamPrediction.csproj" />
+  <Project Path="App04NewsPredict/App04NewsPredict.csproj" />
 </Solution>
