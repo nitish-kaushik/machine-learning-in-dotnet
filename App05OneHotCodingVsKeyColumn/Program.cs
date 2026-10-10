@@ -34,9 +34,6 @@ foreach (var row in rows)
         $"{row.Color} -> [{string.Join(", ", row.ColorEncoded)}]");
 }
 
-
-
-
 public sealed class ColorInput
 {
     public string Color { get; set; } = string.Empty;
