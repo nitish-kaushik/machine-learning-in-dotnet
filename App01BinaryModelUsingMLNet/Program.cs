@@ -69,15 +69,15 @@ var model = pipeline.Fit(trainSet);
 //
 // Console.WriteLine($"Accuracy: {evaluation.Accuracy}, AUC: {evaluation.AreaUnderRocCurve}, F1 Score: {evaluation.F1Score}");
 //
-// // PredictionEngine
-// var predictionEngine = mlContext.Model.CreatePredictionEngine<News, NewsPrediction>(model);
-//
-// // Test the model with a sample news title
-// var sampleNews = new News { Title = "I am Satisfied with ML.Net" };
-//
-// var prediction = predictionEngine.Predict(sampleNews);
-//
-// Console.WriteLine($"Prediction: {prediction.Answer}, Probability: {prediction.Probability}, Score: {prediction.Score}");
+// PredictionEngine
+var predictionEngine = mlContext.Model.CreatePredictionEngine<News, NewsPrediction>(model);
+
+// Test the model with a sample news title
+var sampleNews = new News { Title = "I am Satisfied with ML.Net" };
+
+var prediction = predictionEngine.Predict(sampleNews);
+
+Console.WriteLine($"Prediction: {prediction.Answer}, Probability: {prediction.Probability}, Score: {prediction.Score}");
 
 var inMemoryTestQuestions = new List<News>
 {
@@ -86,6 +86,7 @@ var inMemoryTestQuestions = new List<News>
     new News { Title = "ML.Net is great for machine learning" },
     new News { Title = "ML.Net is not good for machine learning" }
 };
+
 
 
 var transformedData = model.Transform(mlContext.Data.LoadFromEnumerable(inMemoryTestQuestions));

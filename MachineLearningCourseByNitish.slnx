@@ -6,4 +6,5 @@
   <Project Path="App02PredictBPM/App02PredictBPM.csproj" />
   <Project Path="App03EmailSpamPrediction/App03EmailSpamPrediction.csproj" />
   <Project Path="App04NewsPredict/App04NewsPredict.csproj" />
+  <Project Path="App05OneHotCodingVsKeyColumn/App05OneHotCodingVsKeyColumn.csproj" />
 </Solution>
