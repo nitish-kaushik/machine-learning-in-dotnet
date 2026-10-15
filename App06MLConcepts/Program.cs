@@ -7,4 +7,6 @@ var mlContext = new MLContext();
 //ReplaceAndIndicateMissingValue.Run(mlContext);
 
 //NormalizationConcepts.Run(mlContext);
-NormalizationConcepts.RunNormalizeMeanVariance(mlContext);
+//NormalizationConcepts.RunNormalizeMeanVariance(mlContext);
+
+App06MLConcepts.TextCatalog.RunStoppingWordsRemoving(mlContext);
