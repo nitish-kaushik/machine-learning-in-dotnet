@@ -4,4 +4,7 @@ using Microsoft.ML.Transforms;
 
 var mlContext = new MLContext();
 
-ReplaceAndIndicateMissingValue.Run(mlContext);
+//ReplaceAndIndicateMissingValue.Run(mlContext);
+
+//NormalizationConcepts.Run(mlContext);
+NormalizationConcepts.RunNormalizeMeanVariance(mlContext);
